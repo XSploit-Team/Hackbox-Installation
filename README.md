@@ -10,6 +10,8 @@ If you don't want these changes, this guide will still be valid if you download 
 
 ## How to install
 
+*Remember to have virtualization enabled in your BIOS, google your motherboard/machine to find a guide on how to enable it. It should be enabled by default. But if VMWare doesn't work, then it might need to be enabled manually.*
+
 If you don't already have WMWare installed, you can [install it from here for free](https://www.vmware.com/products/workstation-player.html).
 
 First you need to download our WMWare image files. You can [download the compressed files here](https://drive.proton.me/urls/Z80S491DJ8#XAQLfAfGp9GK). When downloaded, extract using [7Zip](https://www.7-zip.org/download.html) or any other 7z compatible decompressors. For convenience, you could move the folder to another place, but it's not necessary.
