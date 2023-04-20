@@ -6,6 +6,8 @@ Quick guide for the installation of our custom kali VM image. Our image is based
 - Default keyboard changed to danish windows keyboard
 - Time changed to match the danish timezone
 
+If you don't want these changes, this guide will still be valid if you download the [official kali linux vmware image](https://www.kali.org/get-kali/#kali-virtual-machines).
+
 ## How to install
 
 If you don't already have WMWare installed, you can [install it from here for free](https://www.vmware.com/products/workstation-player.html).
