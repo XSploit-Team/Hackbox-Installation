@@ -6,6 +6,8 @@ Quick guide for the installation of our custom kali VM image. Our image is based
 - Default keyboard changed to danish windows keyboard
 - Time changed to match the danish timezone
 
+If you find yourself downloading tools that is often used in CTF's but not installed by default, let us know and then we will add it to our kali image.
+
 If you don't want these changes, this guide will still be valid if you download the [official kali linux vmware image](https://www.kali.org/get-kali/#kali-virtual-machines).
 
 ## How to install
