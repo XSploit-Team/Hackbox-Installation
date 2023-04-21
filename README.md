@@ -14,13 +14,13 @@ This guide will walk you through a VMWare VM installation. If you don't already 
 
 The two most used hackbox operating systems are Kali Linux and Parrot OS. You can look at the table below to decide what you want to go with.
 
-|                       | Parrot OS                    | Kali Linux                              |
-|-----------------------|------------------------------|-----------------------------------------|
-| Hardware Requirements | Lightweight                  | Not appropriate for older configuration |
-| Look & Feel           | All sorts of tools installed | Easy to get lost, if you’re new         |
-| Hacking Tools         | More tools than Kali         | Lacks anonymity and crypto tools        |
-| Variations            | Diverse variation            | Not much variation                      |
-| Better for Beginners  | Forgiving and easy going     | Aggressive environment for beginners    |
+|                           | Parrot OS                    | Kali Linux                              |
+|---------------------------|------------------------------|-----------------------------------------|
+| **Hardware Requirements** | Lightweight                  | Not appropriate for older configuration |
+| **Look & Feel**           | All sorts of tools installed | Easy to get lost, if you’re new         |
+| **Hacking Tools**         | More tools than Kali         | Lacks anonymity and crypto tools        |
+| **Variations**            | Diverse variation            | Not much variation                      |
+| **Better for Beginners**  | Forgiving and easy going     | Aggressive environment for beginners    |
 
 If you are going to run the hackbox in a VM (which is what most do), then you might find the hardware requirements important if your machine isn't very powerful.
 
