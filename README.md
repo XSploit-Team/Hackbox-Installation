@@ -8,7 +8,7 @@ Hackbox, a machine dedicated to pentesting. It's a good idea to isolate your pen
 
 If you find yourself downloading tools that is often used in CTF's but not installed by default, let us know and then we will add it to our kali image.
 
-This guide will walk you through a VMWare VM installation. If you don't already have WMWare installed, you can [install it from here for free](https://www.vmware.com/products/workstation-player.html).
+This guide will walk you through a VMWare VM installation. If you don't already have WMWare installed, you can [install it from here for free](https://www.vmware.com/products/workstation-player.html). Why is this a guide for VMWare only? VMWare seems to run faster and more smooth, but [Virtualbox](https://www.virtualbox.org/) can be used as well. We might do a guide for that in the future.
 
 ## Choose an OS
 
