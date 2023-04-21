@@ -55,7 +55,7 @@ Open your VMWare application and click on `Open a Virtual Machine`, then you wil
 
 <img src="./images/vmware.png" width="600" height="500">
 
-You should now be able to boot into Kali Linux. The default login username and password is `kali`. You can change this if you want to.
+You should now be able to boot into your new Hackbox.
 
 ## Login Credentials
 
