@@ -37,13 +37,13 @@ If you are going to run the hackbox in a VM (which is what most do), then you mi
 When you have decided what you want to go with, you can download the VMWare files needed to run the VM.
 
 **Our customized VMWare files:**
-[Kali Linux 2023.1](https://drive.proton.me/urls/Z80S491DJ8#XAQLfAfGp9GK)
-[Parrot OS 5.2](https://drive.proton.me/urls/6VEYKEKRSW#1AJJPIsF5dC2)
-*It should be noted that our VM files won't be updated as often as the official ones.*
+[Kali Linux 2023.1](https://drive.proton.me/urls/Z80S491DJ8#XAQLfAfGp9GK)  
+[Parrot OS 5.2](https://drive.proton.me/urls/6VEYKEKRSW#1AJJPIsF5dC2)  
+*It should be noted that our VM files won't be updated as often as the official ones.*  
 
 **Official files:**
-[Kali Linux VM Images](https://www.kali.org/get-kali/#kali-virtual-machines)
-Parrot OS doesn't have a VM image, so you will need to install it from scratch if you don't want out customized VM. You can [download the ISO from here](https://www.parrotsec.org/download/) however, this guide doesn't show you how to set it up.
+[Kali Linux VM Images](https://www.kali.org/get-kali/#kali-virtual-machines)  
+Parrot OS doesn't have a VM image, so you will need to install it from scratch if you don't want out customized VM. You can [download the ISO from here](https://www.parrotsec.org/download/) however, this guide doesn't show you how to set it up.  
 
 ## How to install
 
@@ -59,10 +59,10 @@ You should now be able to boot into your new Hackbox.
 
 ## Login Credentials
 
-**Kali:**
-Username: `kali`
-Password: `kali`
+**Kali:**  
+Username: `kali`  
+Password: `kali`  
 
-**Parrot OS:**
-Username: `parrot`
-Password: `parrot`
+**Parrot OS:**  
+Username: `parrot`  
+Password: `parrot`  
