@@ -20,4 +20,6 @@ First you need to download our WMWare image files. You can [download the compres
 
 Open your VMWare application and click on `Open a Virtual Machine`, then you will need to locate the folder you extracted and select the only `.vmx` in that folder. Then your VM should show up in the list of VM's. You can choose to expand the harddisk space, amound of memory and cpu cores as you wish.
 
+<img src="./images/vmware.png" width="600" height="500">
+
 You should now be able to boot into Kali Linux. The default login username and password is `kali`. You can change this if you want to.
