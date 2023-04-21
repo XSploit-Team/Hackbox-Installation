@@ -1,6 +1,6 @@
 # Z3R0D4Y Custom Kali VMWare Installation Guide
 
-Quick guide for the installation of our custom kali VM image. Our image is based on [kali linux's 64-bit WMWare image](https://www.kali.org/get-kali/#kali-virtual-machines), we have made minor changes listed below.
+Quick guide for the installation of [our custom kali VM image](https://drive.proton.me/urls/Z80S491DJ8#XAQLfAfGp9GK). Our image is based on [kali linux's 64-bit WMWare image](https://www.kali.org/get-kali/#kali-virtual-machines), we have made minor changes listed below.
 
 - Default Desktop Background
 - Default keyboard changed to danish windows keyboard
