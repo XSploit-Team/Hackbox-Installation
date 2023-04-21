@@ -24,13 +24,13 @@ The two most used hackbox operating systems are Kali Linux and Parrot OS. You ca
 
 If you are going to run the hackbox in a VM (which is what most do), then you might find the hardware requirements important if your machine isn't very powerful.
 
-| Kali                            | Parrot OS                          |
-|---------------------------------|------------------------------------|
-| Graphical Acceleration Required | No Graphical Acceleration Required |
-| 1GB RAM                         | 320mb RAM                          |
-| 1GHZ dual-core CPU              | 1GHZ dual-core CPU                 |
-| Can boot in legacy and UEFI     | Can boot in legacy and UEFI        |
-| 20GB of hard disk space         | 16GB of hard disk space            |
+| Parrot OS                          | Kali                            |
+|------------------------------------|---------------------------------|
+| No Graphical Acceleration Required | Graphical Acceleration Required |
+| 320mb RAM                          | 1GB RAM                         |
+| 1GHZ dual-core CPU                 | 1GHZ dual-core CPU              |
+| Can boot in legacy and UEFI        | Can boot in legacy and UEFI     |
+| 16GB of hard disk space            | 20GB of hard disk space         |
 
 [*Source of both tables*](https://www.edureka.co/blog/parrot-os-vs-kali-linux/)
 
